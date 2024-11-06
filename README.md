@@ -26,3 +26,9 @@ This repository is a great resource for understanding how to set up and structur
 - [ ] Run `nodemon index.js` to start the application.
 <br>
 
+# Related Projects
+-  [Basic Node Server Setup](https://github.com/TylrPopcorn/basic-node-server-setup) - *literally just an example for me to look back at.*
+-  [The Grid](https://github.com/TylrPopcorn/The-Grid-Class-Based-) - *A grid application built using class based react.js components*
+-  [What Even Is Bulma](https://github.com/TylrPopcorn/What-Even-Is-Bulma) - *Bulma CSS framework explained*
+-  [Color Flipper](https://github.com/TylrPopcorn/Color-Flipper) - *Flip the color of an element using svelte.js*
+-  [Projects List](https://github.com/TylrPopcorn/Projects-List) - *Explore other projects I have worked on*
